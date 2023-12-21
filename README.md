@@ -1,16 +1,5 @@
 # bmi_calculator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Best Flutter projekt für mich von meinem Projekten. BMI Calculator ist war interessant und bischen schwierig für mich. 
+Aber damit habe ich viele Erfahrung gesammelt und viel Neues gelernt. Ich mag UI von diesem Projekt. 
+Wie sieht UI aus, können sie in der Datei "UI BMI_Calculator.png" und "BMI_Calculator2.png" sehen.
